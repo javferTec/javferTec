@@ -1,53 +1,163 @@
-# Hi! I'm **Javi** :wave:
+# Hi, I'm **Javi** 👋
 
-Hi! I'm a **Web Developer 💻** and **Systems Administrator 🚀** passionate about building robust web applications and managing efficient systems.  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Senior+Software+Developer;Software+Architecture+%7C+Backend+%7C+Infrastructure;Building+reliable+and+maintainable+systems" alt="Typing SVG" />
+</p>
 
-I'm currently studying Web Application Development and always seeking new challenges to expand my knowledge and skills. My leadership abilities and teamwork spirit are driven by a deep fascination with technology and a strong desire for continuous improvement.
+**Senior Software Developer** focused on building reliable, maintainable and scalable software.
 
-_Connect with me on LinkedIn._ <br>
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin-circled.png)](https://www.linkedin.com/in/javier-fernández-díaz-guerra/)
+My background combines **software engineering and infrastructure**, giving me a broader perspective on how systems are designed, developed, deployed and operated in production.
 
-
----
-
-## 📚 Languages I Use the Most
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+I enjoy solving complex problems, designing backend systems, improving existing architectures and turning business requirements into practical technical solutions.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 👨‍💻 About Me
 
-| 🚩 **Category**                | 💻 **Technologies**                                                                                                                                                   |
-|-------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Version Control**            | ![Git](https://img.icons8.com/color/48/000000/git.png) &nbsp;&nbsp; **Git**, **GitFlow**                               |
-| **Java Ecosystem**             | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) &nbsp;&nbsp; **Java**, &nbsp;&nbsp; ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png) &nbsp;&nbsp; **Spring Boot**, **Spring Framework** |
-| **Web Development**            | ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) &nbsp;&nbsp; **HTML5**, &nbsp;&nbsp; ![CSS3](https://img.icons8.com/color/48/000000/css3.png) &nbsp;&nbsp; **CSS**, &nbsp;&nbsp; ![PHP](https://img.icons8.com/color/48/000000/php.png) &nbsp;&nbsp; **PHP** |
-| **Databases**                  | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) &nbsp;&nbsp; **MySQL**, &nbsp;&nbsp; ![MariaDB](https://img.icons8.com/color/48/000000/database.png) &nbsp;&nbsp; **MariaDB**, &nbsp;&nbsp; ![Redis](https://img.icons8.com/color/48/000000/redis.png) &nbsp;&nbsp; **Redis** |
-| **Containerization & VM**      | ![Docker](https://img.icons8.com/color/48/000000/docker.png) &nbsp;&nbsp; **Docker**, &nbsp;&nbsp; ![Proxmox](https://img.icons8.com/color/48/000000/virtual-machine.png) &nbsp;&nbsp; **Proxmox**           |
-| **Networking & Security**      | ![pfSense](https://img.icons8.com/color/48/000000/firewall.png) &nbsp;&nbsp; **pfSense**, &nbsp;&nbsp; ![SonicWALL](https://img.icons8.com/color/48/000000/network.png) &nbsp;&nbsp; **SonicWALL**, &nbsp;&nbsp; ![HAProxy](https://img.icons8.com/color/48/000000/server.png) &nbsp;&nbsp; **HAProxy** |
-| **System Administration**      | ![Linux](https://img.icons8.com/color/48/000000/linux.png) &nbsp;&nbsp; **Linux Admin**, &nbsp;&nbsp; ![Windows](https://img.icons8.com/color/48/000000/windows.png) &nbsp;&nbsp; **Windows Admin**, &nbsp;&nbsp; ![Bash](https://img.icons8.com/color/48/000000/bash.png) &nbsp;&nbsp; **Bash**, &nbsp;&nbsp; ![PowerShell](https://img.icons8.com/color/48/000000/powershell.png) &nbsp;&nbsp; **PowerShell** |
-| **Web Servers & Monitoring**   | ![Apache](https://img.icons8.com/color/48/000000/server.png) &nbsp;&nbsp; **Apache**, &nbsp;&nbsp; ![Zabbix](https://img.icons8.com/color/48/000000/monitor.png) &nbsp;&nbsp; **Zabbix**                    |
-| **Frameworks**                 | ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png) &nbsp;&nbsp; **WordPress**, &nbsp;&nbsp; ![CodeIgniter](https://img.icons8.com/color/48/000000/php.png) &nbsp;&nbsp; **CodeIgniter**      |
-| **Virtualization & Storage**   | ![Virtualization](https://img.icons8.com/color/48/000000/virtual-machine.png) &nbsp;&nbsp; **Virtualization**, &nbsp;&nbsp; ![GlusterFS](https://img.icons8.com/color/48/000000/cloud.png) &nbsp;&nbsp; **GlusterFS** |
+- 💼 **Senior Software Developer**
+- 🏗️ Focused on **software architecture, backend development and distributed systems**
+- ☕ Strong experience with **Java & Spring**
+- 🐹 Experience building services with **Go**
+- 🗄️ Experienced with **relational and distributed data systems**
+- 🐳 Comfortable with **Docker, Linux and infrastructure**
+- 🔄 Interested in **reliability, scalability and system design**
+- 🔧 Experienced in maintaining and evolving existing systems
+- 🤝 Strong believer in collaboration, clean code and knowledge sharing
+- 🚀 Always looking for pragmatic solutions to complex engineering problems
 
 ---
 
-## 🌱 GitHub Commit Status
+## 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javferTec&show_icons=true&theme=radical)    ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=javferTec&theme=radical&hide_border=false)
+### Backend & Architecture
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white)
+
+### Architecture & Engineering
+
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Hexagonal Architecture · Domain-Driven Design · Microservices · SOLID · REST · Event-Driven Architecture**
+
+### Data
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+
+### DevOps & Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 💬 Random Developer Quote
+## 🧠 Engineering Focus
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Software Architecture · Backend Systems · Distributed Systems · Reliability · Scalability · Performance · Automation**
+
+I value **pragmatic engineering**: choosing the right level of complexity for the problem, keeping systems understandable, and designing software that can evolve without becoming difficult to maintain.
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 GoLearnix
+
+**Microservices-based learning platform focused on modern software architecture.**
+
+A project built around **Java/Spring Boot and Go**, with PostgreSQL, Redis and RabbitMQ.
+
+The architecture combines:
+
+- 🧩 **Hexagonal Architecture**
+- 🏛️ **Domain-Driven Design**
+- 🔄 **Event-driven communication**
+- 🔀 **Saga pattern**
+- 🧱 **Microservices**
+- 🗄️ **PostgreSQL + Redis**
+- 🐳 **Docker**
+- 🛠️ **Flyway**
+- 📖 **OpenAPI / Swagger**
+- 🧪 **Postman & Testcontainers**
+
+The project focuses on **maintainability, scalability, resilience and separation of concerns**.
+
+👉 **[View GoLearnix →](https://github.com/javferTec/GoLearnix)**
+
+---
+
+### 🌐 En Línea Sin Interrupciones
+
+**High-availability infrastructure project focused on connectivity and service continuity.**
+
+A systems administration project exploring how to design infrastructure capable of maintaining **service availability and network connectivity**.
+
+It covers areas such as:
+
+- 🌐 **Network architecture**
+- 🔄 **High availability**
+- 🛡️ **Reliability**
+- 🖥️ **Infrastructure design**
+- 📡 **Network services**
+- 🔧 **Systems administration**
+- 📚 **Technical documentation**
+
+👉 **[View project →](https://github.com/javferTec/En-Linea-Sin-interrupciones)**
+
+---
+
+## 🎯 Software + Infrastructure
+
+One of the things that defines my technical background is the combination of **software development and systems infrastructure**.
+
+Understanding both sides helps me think beyond just writing code:
+
+```text
+        Business Requirements
+                 │
+                 ▼
+        ┌─────────────────┐
+        │    Architecture │
+        └────────┬────────┘
+                 │
+        ┌────────▼────────┐
+        │     Software    │
+        │   Development   │
+        └────────┬────────┘
+                 │
+        ┌────────▼────────┐
+        │ Infrastructure  │
+        │   & Deployment  │
+        └────────┬────────┘
+                 │
+        ┌────────▼────────┐
+        │ Reliability &   │
+        │   Operations    │
+        └─────────────────┘
+```
+
+I enjoy working across that entire lifecycle, from **architecture and implementation to deployment and operation**.
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/javfertec/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</p>
